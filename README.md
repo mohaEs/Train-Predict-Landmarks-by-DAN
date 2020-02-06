@@ -9,6 +9,34 @@ modified to our requirments.
 python 3.6 
 tensorflow 1.12
 
+# Paper:
+This code is used for the following research. If you found it usefull, please cite the following document:
+
+https://www.nature.com/articles/s41598-020-58103-6
+
+@article{eslami2020automatic,
+  title={Automatic vocal tract landmark localization from midsagittal MRI data},
+  author={Eslami, Mohammad and Neuschaefer-Rube, Christiane and Serrurier, Antoine},
+  journal={Scientific Reports},
+  volume={10},
+  number={1},
+  pages={1--13},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+
+Following repositories are also used for the mentioned paper:
+
+https://github.com/mohaEs/Train-Predict-Landmarks-by-SFD
+
+https://github.com/mohaEs/Train-Predict-Landmarks-by-MCAM
+
+https://github.com/mohaEs/Train-Predict-Landmarks-by-Autoencoder
+
+https://github.com/mohaEs/Train-Predict-Landmarks-by-dlib
+
+https://github.com/mohaEs/Train-Predict-Landmarks-by-flat-net
+
 
 # data preparation
 1- create folders named: <br>
